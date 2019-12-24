@@ -9,5 +9,5 @@
 <p>use this commando <br>yum -y install git</p>
 <p>cd /var/www/html</p>
 <p>git https://github.com/TeaserCod/install_command.git</p>
-<p>bash install_command</p>
+<p>bash install_command.sh</p>
 <p>and done thanks for read</p>
